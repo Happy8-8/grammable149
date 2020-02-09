@@ -55,6 +55,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'node'
 gem 'simple_form'
+gem 'devise'
 
 group :development, :test do
   gem 'rspec-rails', '~> 3.5'
